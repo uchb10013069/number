@@ -5,7 +5,7 @@ import numbertest as num
 from tkinter import ttk
 from tkinter import StringVar
 from PIL import ImageTk, Image
-#安安你好
+
 
 t2=''
 win = tk.Tk()
